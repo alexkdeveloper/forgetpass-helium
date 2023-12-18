@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-12-17 14:59+0800\n"
+"PO-Revision-Date: 2023-12-17 15:09+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-Basepath: ../src\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: window.vala:19
+msgid "Site"
+msgstr "Сайт"
+
+#: window.vala:20
+msgid ""
+"Use only the domain name without prefixes, such as http or www, and endings, "
+"such as .com, etc."
+msgstr ""
+"Используйте только доменное имя без префиксов, таких как http или www, и "
+"окончаний, таких как .com и т.д."
+
+#: window.vala:29
+msgid "Keyword"
+msgstr "Ключевое слово"
+
+#: window.vala:30
+msgid ""
+"Be sure to remember the keyword! If you forget it, you won't be able to "
+"recover your password!"
+msgstr ""
+"Обязательно запомните ключевое слово! Если вы забудете его, вы не сможете "
+"восстановить свой пароль!"
+
+#: window.vala:32
+msgid "GENERATE"
+msgstr "СОЗДАТЬ"
+
+#: window.vala:41
+msgid "Copy to clipboard"
+msgstr "Скопировать в буфер обмена"
+
+#: window.vala:70
+msgid "Enter the name of the site"
+msgstr "Введите название сайта"
+
+#: window.vala:72
+msgid "Enter a keyword"
+msgstr "Введите ключевое слово"
+
+#: window.vala:105
+msgid "ERROR!"
+msgstr "ОШИБКА!"
+
+#: window.vala:107
+msgid "Failed to generate password!"
+msgstr "Не удалось создать пароль!"
+
+#~ msgid "Message"
+#~ msgstr "Сообщение"
